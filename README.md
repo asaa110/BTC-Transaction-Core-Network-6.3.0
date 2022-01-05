@@ -1,0 +1,2 @@
+# BTC-Transaction-Core-Network-6.3.0
+New updates for January 2022  Flash BTC Transaction (Core Network) 6.3.0  Live demo with blockchain keys options, sending more than 100 BTC in one transaction  New features :   -Supports up to 500 BTC per transaction -Can stay on the wallet for more than 6 months (180 days) -Quick confirmation if you have over 30,000TH / S -Support an unlimited number of transfers by wallet -Support new bitcoin addresses (Segwit, legacy, Bech32) -Supports future trading on binance, ftx and coinbase  Whatsapp:  +33 7 56 90 07 69 Telegram : @ppyto
